@@ -19,5 +19,8 @@
   "homepage": "https://github.com/VictorLEDEZ/faq-entrepotes-mvc#readme",
   "devDependencies": {
     "parcel": "^2.0.0-beta.1"
+  },
+  "dependencies": {
+    "regenerator-runtime": "^0.13.7"
   }
 }
