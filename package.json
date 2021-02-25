@@ -1,7 +1,7 @@
 {
   "name": "faq-entrepotes-mvc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test FAQ entrepotes.ca with JS MVC",
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/VictorLEDEZ/faq-entrepotes-mvc.git"
   },
-  "author": "",
+  "author": "Victor LEDEZ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/VictorLEDEZ/faq-entrepotes-mvc/issues"
