@@ -1,6 +1,7 @@
 import * as model from './model.js';
 import resultsView from './views/resultsView.js';
 import searchView from './views/searchView.js';
+import { async } from 'regenerator-runtime';
 
 async function controlSearchResults(filter) {
   try {
