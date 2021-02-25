@@ -1,0 +1,23 @@
+{
+  "name": "faq-entrepotes-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorLEDEZ/faq-entrepotes-mvc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorLEDEZ/faq-entrepotes-mvc/issues"
+  },
+  "homepage": "https://github.com/VictorLEDEZ/faq-entrepotes-mvc#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}
